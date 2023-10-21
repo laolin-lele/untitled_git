@@ -12,5 +12,6 @@ public class GItTest {
         System.out.println("hello git >>?>?>?>");
         System.out.println("hello git >>?>?>?>mastertext---????");
         System.out.println("hello git >>?>?>?>hot----textsss");
+        System.out.println("hello git >push test ??");
     }
 }
